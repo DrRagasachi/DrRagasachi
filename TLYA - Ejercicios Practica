@@ -1,1 +1,16 @@
 Ejercicios Practica
+
+4.	Hacer un programa en pseudocódigo que permita Introducir un número por teclado y que escriba si es par o es impar.
+
+//ALGORITMO: Introducir un número por teclado y que escriba si es par o es impar.
+
+Comienzo
+		C <- 0
+    Escribir " Ingrese un numero: "
+    Leer C
+    Si C MOd 2 = 0 Entonces
+    C "Es par"
+    Sino
+    C "Es Impar"
+    FinSi
+Fin
