@@ -16,3 +16,9 @@ Comienzo
 Fin
 ---------------------------------------------------------------------------------------------------------------------------------
 
+5. Hacer un programa en pseudocódigo que permita Introducir un número por teclado y que escriba y cuente los múltiplos de 3 desde la unidad 
+   hasta el número que introducimos por teclado.
+   
+  
+ALGORITMO: " escribir y contar los múltiplos de 3 desde la unidad hasta el número que introduce por teclado "
+
