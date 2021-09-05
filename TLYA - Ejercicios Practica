@@ -5,12 +5,14 @@ Ejercicios Practica
 //ALGORITMO: Introducir un número por teclado y que escriba si es par o es impar.
 
 Comienzo
-		C <- 0
+    C <- 0
     Escribir " Ingrese un numero: "
     Leer C
-    Si C MOd 2 = 0 Entonces
-    C "Es par"
+    Si (C Mod 2 = 0) Entonces
+    Escribir "Es par"
     Sino
-    C "Es Impar"
+    Escribir "Es Impar"
     FinSi
 Fin
+---------------------------------------------------------------------------------------------------------------------------------
+
