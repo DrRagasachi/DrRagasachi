@@ -1,0 +1,20 @@
+//using System;
+
+//public class namespace
+{
+    public static void Main(string[] args)
+    {
+    //Protrama que pide: Ingresa tu nombre, apellido y registro, guardarlos y mostrarlos en mensajes diferentes :");
+
+    Console.WriteLine("Ingresa tu nombre :");
+        string nombre = Console.ReadLine();
+    Console.WriteLine("Ingresa tu nombre :");
+        string apellido = Console.ReadLine();
+    Console.WriteLine("Ingresa tu registro :");
+        string registro = Console.ReadLine();
+
+        Console.WriteLine ("Los datos almacenados son "+" "+ nombre +" "+ apellido +" "+ registro);
+
+
+    }
+}
